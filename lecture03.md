@@ -24,6 +24,7 @@
 - DB サーバーを終了させた場合、引き続きアクセスできますか？
 <br> $ sudo service mysqld stop で終了。下記エラーが表示され、アクセス不可となった。
 <br> Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)
+<img src="https://github.com/iwayas/RaiseTech/blob/lecture03/lecture03-2.png">
 
 - Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 <br> Bundler version 2.3.14
