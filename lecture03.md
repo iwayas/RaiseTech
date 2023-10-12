@@ -1,5 +1,5 @@
 - サンプルアプリケーションを今日見せた作業と同じように起動（デプロイ）してみましょう。起動できたら、ブラウザでアクセスしてみましょう。
-<img src="https://github.com/iwayas/RaiseTech/blob/lecture03/lecture03-1.png">
+[!lecture03-1](iwayas/RaiseTech/blob/main/lecture03-1.png)
 
 - AP サーバーについて調べてみましょう。
 <br> APサーバ（アプリケーションサーバ）とは、Web3層構造と呼ばれるWebシステムで、アプリケーションプログラムを動作させるサーバのことです。APサーバはWebアプリケーションサーバとも呼ばれています。
