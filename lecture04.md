@@ -17,8 +17,8 @@
 ![lecture04-06](lecture04-06.EC2インスタンス.png)
 
 - 07.セキュリティグループ
-![lecture04-07]
-![lecture04-08](lecture04-07.セキュリティグループ-2.png)
+![lecture04-07](lecture04-07.セキュリティグループ-1.png)
+![lecture04-08](lecture04-08.セキュリティグループ-2.png)
 
 - 08.データベース
 ![lecture04-09](lecture04-09.データベース-1.png)
